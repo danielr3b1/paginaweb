@@ -1,0 +1,125 @@
+[
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 1,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner1.png",
+    "movieName": "PONMANGAL VANDHAL",
+	"movieDescrip": "Ray Garrison, también conocido como Bloodshot, es resucitado por la compañía Rising Spirit",
+	"movieGenero": "TMDb 2020",
+	"movieFecha": "2020 1h 38m",
+	"movieIdioma": "Idioma: Latino"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 2,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner2.png",
+    "movieName": "Little Women"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 3,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner3.png",
+    "movieName": "BHOOT The Haunted Ship"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 4,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner4.png",
+    "movieName": "MIRZAPUR"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 5,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner5.png",
+    "movieName": "PIKACHU"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 1,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/tvshowbanner1.png",
+    "movieName": "SKULLS & ROSES"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 2,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/tvshowbanner2.png",
+    "movieName": "COMICSTAAN"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 3,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/tvshowbanner3.png",
+    "movieName": "UPLOAD"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 4,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/tvshowbanner4.png",
+    "movieName": "HUNTERS"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 1,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/moviebanner1.png",
+    "movieName": "A Beautiful Day"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 2,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/moviebanner2.png",
+    "movieName": "Black-Mail"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 3,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/moviebanner3.png",
+    "movieName": "SUFNA"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 1,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/kidsbanner1.png",
+    "movieName": "Inspector Chingum"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 2,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/kidsbanner2.png",
+    "movieName": "ODDBODS"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 3,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/kidsbanner3.png",
+    "movieName": "BAJRANGI"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 4,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/kidsbanner4.png",
+    "movieName": "Tenali Raman"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 5,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/kidsbanner5.png",
+    "movieName": "WishenPoof"
+  }
+]
